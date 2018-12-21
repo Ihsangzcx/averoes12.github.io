@@ -1,0 +1,8 @@
+<div class="pagination clearfix">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous"><img src="../assets/img/balik.png"></a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next"><img src="../assets/img/next.png"></a>
+  {% endif %}
+</div>

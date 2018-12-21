@@ -1,0 +1,49 @@
+title: Averoes Blog
+email: hz.ir.daff@gmail.com
+description: pengalaman dan tutorial 
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author settings
+author: Averoes Blog # add your name
+author-pic: about.png
+about-author: I'm Student of programmer,and i hope i can to be a Programmer 
+
+# Contact links
+email:  hz.ir.daff@gmail.com
+phone: 089506242545
+website: 
+linkedin: # Add your Linkedin handle
+github: Averoes12
+twitter: '@175hz'
+facebook: Alzhoom175
+instagram: hz.ir.daff
+pinterest: # Add your Pinterest handle
+
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier.
+
+# Disqus
+discus_identifier: averoes12 # Add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Paginate
+paginate: 6
+paginate_path: /page:num/
+paginate_path: /page:num/
+
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
