@@ -16,34 +16,50 @@ Object Oriented Programming adalah sebuah gaya penulisan dalam menulis sebuah ko
 
 ## Karakteristik
 - Semua perintah perintah yang di tulis dalam procedural programming,ditulis secara berurutan langakah demi langkah.
+
 - Membagi program jadi bagian - bagian kecil dengan menggunakan fungsi untuk mengerjakan tugas-tugas tertentu.
+
 -Procedural Programming juga disebut sebagai linear,karna program tersebut dibaca dari atas ke bawah.
+
 -Contoh bahasa program yang menggunakan procedural programming style : PHP,Javascript,Fotran,Pascal,C.
 
 ## Kelebihan
--Procedural Programming bersifat to the point,jadi kita bisa langsung menjalankan apa yang kita mau.
+-  Procedural Programming bersifat to the point,jadi kita bisa langsung menjalankan apa yang kita mau.
+
 -Mudah dibaca oleh compiler dan interpreter,jadi programnya langsung di tampilkan.
--Ketika terjadi kesalahan mudah untuk di temukan.
+
+-  Ketika terjadi kesalahan mudah untuk di temukan.
+
 -Menggunakan sedikit memori saat menjalankan program.
 
 # Object Oriented Programming
 
 ## Karakteristik OOP
 
-- Menyusun semua kode program dan struktur data sebagai objek
+- Menyusun semua kode program dan struktur data sebagai objek.
+
 - Objek adalah unit yang berperan penting dalam membentuk sebuah kode.
+
 - Objek menyimpan data dan perilaku/behavior dari sebuah program, jadi di OOP tidak ada penggunaan variable yang ada hanya data dan prilaku atau *prperties* dan *methode* . 
-- Objek bisa saling berinteraksi,jadi di dalam OOP akan ada banyak objek-objek dan masing objek bisa saling interaksi
+
+- Objek bisa saling berinteraksi,jadi di dalam OOP akan ada banyak objek-objek dan masing objek bisa saling interaksi.
+
 - Contoh bahasa program yang menggunakan kosep oop : Java, Ruby, Python, C++, Javascript, PHP.
 
 ## Kelebihan Object Oriented Programming
 
 - Mudah untuk merepresentasikan di dunia nyata.
+
 - Dapat di lindungi agar tidak terakses dengan fitur enkapsulasi dan bisa menyembnyikan kerumitan dari program kita dengan abstraksi data.
+
 - Mudah untuk di gunakan kembali atau di daur ulang dari program-program yang telah kita buat.
+
 - Lebih mudah dikembangkan, ketika programnya menjadi lebih besar.
+
 - Lebih mudah untuk di kelola
+
 - Lebih mudah digunakan ketika program tersebut di buat dalam sebuah team, jadi dapat berkolaborasi.
+
 - Digunakan oleh Framework.
 
 # Procedural Programming VS Object Oriented Programming
