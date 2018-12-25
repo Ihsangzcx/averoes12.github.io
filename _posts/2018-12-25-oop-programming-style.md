@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Install and Create virtual machine di QEMU dengan metode CLI
-date: 2018-12-11 +0700
-description: install qemu linux virtual machine
-img: post-5.jpg # Add image post (optional)
-tags: [Blog, Linux]
+title: Object Oriented Programming
+date: 2018-12-25 +0700
+description: konsep pemrograman oop
+img: java.jpg # Add image post (optional)
+tags: [Blog, Java]
 author: Averoes Blog # Add name author (optional)
 ---
 
