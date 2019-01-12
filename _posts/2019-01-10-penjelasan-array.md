@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Penjelasan Array
-date: 2018-01-10 +0700
+date: 2019-01-10 +0700
 description: penejelasan array definisi array
 img: java.jpg # Add image post (optional)
 tags: [Blog, Java]
