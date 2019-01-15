@@ -73,7 +73,7 @@ kita juga bisa memanfaatkan looping untuk mengakses array
 Array 2 Dimensi adalah ketika ada array di dalam array jadi 
 contoh 
 
-\{\{12,13,16\},\{10,19,13\}\}
+\{\{12,13,16\},\{10,19,13\}\}\
 
 array bisa memiliki lebih dari satu dimensi karna itu array memiki sifat multi dimensional.
 
@@ -91,7 +91,7 @@ Pada [] yang kedua adalah kolom
 
 kita juga bisa membuat array 2D dengan cara yang lain
 
-	String [][] arr2D = new String [][]{{Kayu","Besi"},{"Rumah","Sendok"}};
+	String [][] arr2D = new String [][]\{\{Kayu","Besi"\},\{"Rumah","Sendok"\}\};
 
 # Menampilkan array 2D
 
