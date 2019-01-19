@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Operator Pada Jav
+title: Operator Pada Java
 date: 2019-01-19 +0700
 description: operator pada java dan keguanaan nya
 img: java.jpg # Add image post (optional)
@@ -44,5 +44,6 @@ Digunakan untuk membandingkan dua operand
 operator kondisi berguna untuk menggabungkan dua atau lebih perintah boolean,dan yang menentukan hasil selanjutnya dari hasil tersebut
 ```
 && = Kedua sisi harus benar,jika salah satu sisi ada yang salah maka perintah selanjutnya tidak akan berjalan
+
 !! = Ketika salah satu sisi ada yang benar maka perintah selanjutnya akan berjalan`
 ```
