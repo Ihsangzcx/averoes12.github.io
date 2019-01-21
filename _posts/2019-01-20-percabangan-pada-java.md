@@ -9,7 +9,7 @@ author: Averoes Blog # Add name author (optional)
 ---
 
 # Percabangan
-Percabangan dalam java adalah dimana kita punya lebih dari satu kondisi kita, percabangan bisa kita sebut dengan control flow statement,karna tugas utamanya adalah mengatur alur program
+Percabangan dalam java adalah dimana kita punya lebih dari satu kondisi , percabangan bisa kita sebut dengan control flow statement,karna tugas utamanya adalah mengatur alur program
 
 ## if then
 if then adalah percabangan yang paling dasar dan simple
@@ -23,7 +23,7 @@ contoh
 
 Untuk setiap perintah di dalam if then kita harus menulis nya di dalam sebuah curly bracket `{}`
 
-##if else
+## if else
 if else digunakan ketika kita ingin memasang nilai default jika kondisi yang di minta tidak ada
 
 contoh
