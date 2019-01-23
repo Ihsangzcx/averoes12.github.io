@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inheritance Java
-date: 2019-01-22 +0700
+date: 2019-01-23 +0700
 description: inheritance dalam java membuat turunan class
 img: java.jpg # Add image post (optional)
 tags: [Blog, Java]
