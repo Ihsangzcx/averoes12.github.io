@@ -1,3 +1,13 @@
+---
+layout: post
+title: Inner Class
+date: 2019-01-25 +0700
+description: oengertian dan contoh inner class
+img: java.jpg # Add image post (optional)
+tags: [Blog, Java]
+author: Averoes Blog # Add name author (optional)
+---
+
 # Inner Class
 
 Inner Clas adalah class yang ada di dalam class,dan sebuah inner class tidak bisa di akses langsung oleh class yang ada di luarnya,akan tetapi inner class dapat mengakses private acces modifier.

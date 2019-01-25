@@ -1,3 +1,13 @@
+---
+layout: post
+title: Interface dalam Java
+date: 2019-01-26 +0700
+description: Pengertian dan conth interface
+img: java.jpg # Add image post (optional)
+tags: [Blog, Java]
+author: Averoes Blog # Add name author (optional)
+---
+
 #Interface
 Interface mirip sebuah class akan tetapi interface tidak memiliki atribut class dan method nya di tulis tanpa ada isinya
 interface berfungsi untuk meyimpan method kosong dan atribut yang bersifat final atau sudah tidak bisa diganti, interface juga tidak memilki body
