@@ -4,6 +4,7 @@ Inner Clas adalah class yang ada di dalam class,dan sebuah inner class tidak bis
 
 kita buat inner class
 
+```
 	package innerClass;
 
 	class luar {
@@ -12,7 +13,7 @@ kita buat inner class
 
 			Private String brand = "SevenCloth";
 
-			
+
 			}
 		class dalam{
 
@@ -26,23 +27,25 @@ kita buat inner class
 
 	//lalu kita buat main class untuk menampilkan yang telah kita buat
 	class main{
-		
+
 		public static void main (String [] args){
 
-			/*kita tidak bisa membuat objek langsung dari class dalam, maka dari itu kita harus menambahkan objek pada class luar agar bisa di akses di class main*/ 
+			/*kita tidak bisa membuat objek langsung dari class dalam, maka dari itu kita harus menambahkan objek pada class luar agar bisa di akses di class main*/
 		}
 
 	}
 
-Menambahkan objek pada class luar 
+```
+Menambahkan objek pada class luar
 
+```
 	class luar {
 
 		//kita buat objek di class luar
 
 			Private String brand = "SevenCloth";
 
-			
+
 			}
 		class dalam{
 
@@ -62,10 +65,13 @@ Menambahkan objek pada class luar
 		}
 	}
 
+```
+
 jika sudah buat maka kita bisa mengakses inner class
 
+```
 		class main{
-		
+
 		public static void main (String [] args){
 
 			luar brand = new luar();
@@ -74,4 +80,4 @@ jika sudah buat maka kita bisa mengakses inner class
 		}
 
 	}
-
+```
