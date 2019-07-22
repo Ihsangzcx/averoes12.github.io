@@ -14,7 +14,7 @@ author: Averoes Blog # Add name author (optional)
 
   Activity adalah sebuah tempat untuk menampilkan UI atau User Interface dari sebuah aplikasi tanpa adanya activity UI tidak akan bisa ditampilkan, lihat gambar di bawah
 
-  ![](..assets/img/android/ui.png)
+![](../assets/img/ijo/ui.png)
 
   Pada gambar tersebut ada beberapa gambar atau view-view yang ditampilkan dalam sebuah device, nah komponen untuk menampilkan view tersebut dinamakan activity.
 
@@ -22,13 +22,13 @@ author: Averoes Blog # Add name author (optional)
 
   Kita akan membuat sebuah aplikasi untuk menghitung volume balok, berikut tampilannya.
 
-  ![](..assets/img/android/mockup.png)
+![](../assets/img/ijo/mockup.png)
 
 #### First Step
 
   Buka Android Studio lalu pilih File -> New -> New Project
 
-  ![](..assets/img/android/newproject.png)
+![](../assets/img/ijo/newproject.png)
 
 #### Second Step
 
@@ -67,6 +67,6 @@ Tabbed Activity : Activity yang diperuntukan untuk menampilkan lebih dari satu t
 
 Selain itu, Anda juga bisa memilih target device mana yang akan Anda buat seperti Phone and Tablet, Wear OS, TV, Android Auto atau Android Things.
 
-![](..assets/img/android/template.png)
+![](../assets/img/ijo/template.png)
 
 Saat ini kita pilih tipe Empty Activity, klik Next untuk melanjutkan.
